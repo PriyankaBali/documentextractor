@@ -50,6 +50,7 @@ dependencies = [
     "aiofiles>=23.2.0",
     "python-dotenv>=1.0.0",
     "structlog>=23.2.0",
+    "streamlit>=1.30.0",
 ]
 
 [project.optional-dependencies]
